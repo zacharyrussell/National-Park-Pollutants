@@ -1,0 +1,53 @@
+09/21/2022 21:36:47 	pm2.5: 21.1 µg/m³ 	O3: 30.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 21:48:33 	pm2.5: 21.1 µg/m³ 	O3: 30.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 22:02:05 	pm2.5: 21.1 µg/m³ 	O3: 27.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 22:03:03 	pm2.5: 21.1 µg/m³ 	O3: 27.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 22:04:02 	pm2.5: 21.1 µg/m³ 	O3: 27.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 22:05:01 	pm2.5: 21.1 µg/m³ 	O3: 27.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 22:06:02 	pm2.5: 21.1 µg/m³ 	O3: 27.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/21/2022 22:07:02 	pm2.5: 21.1 µg/m³ 	O3: 27.0 AQI 	Clear sky, 69.8°F, 38% Humidity 
+09/23/2022 18:00:09 	pm2.5: 3.1 µg/m³ 	O3: 26.0 AQI 	Broken clouds, 20°F, 51% Humidity 
+09/24/2022 00:00:08 	pm2.5: 4.1 µg/m³ 	O3: 15.0 AQI 	Clear sky, 14°F, 72% Humidity 
+09/24/2022 06:00:08 	pm2.5: 5.1 µg/m³ 	O3: 10.0 AQI 	Clear sky, 9°F, 93% Humidity 
+09/25/2022 00:00:08 	pm2.5: 4.1 µg/m³ 	O3: 16.0 AQI 	Clear sky, 15°F, 69% Humidity 
+09/26/2022 00:00:05 	pm2.5: 21.1 µg/m³ 	O3: 12.0 AQI 	Clear sky, 60.8°F, 67% Humidity 
+09/26/2022 06:00:11 	pm2.5: 21.1 µg/m³ 	O3: 18.0 AQI 	Clear sky, 51.8°F, 87% Humidity 
+09/26/2022 12:00:09 	pm2.5: 24.1 µg/m³ 	O3: 13.0 AQI 	Few clouds, 57.2°F, 63% Humidity 
+09/27/2022 00:01:00 	pm2.5: 25.2 µg/m³ 	O3: 14.0 AQI 	Clear sky, 62.6°F, 65% Humidity 
+09/27/2022 06:00:07 	pm2.5: 24.1 µg/m³ 	O3: 8.0  AQI 	Clear sky, 51.8°F, 91% Humidity 
+09/28/2022 00:00:09 	pm2.5: 10.1 µg/m³ 	O3: 22.0 AQI 	Clear sky, 55.4°F, 71% Humidity 
+09/28/2022 18:00:06 	pm2.5: 9.1 µg/m³ 	O3: 19.0 AQI 	Broken clouds, 64.4°F, 66% Humidity 
+09/29/2022 00:00:04 	pm2.5: 3.1 µg/m³ 	O3: 13.0 AQI 	Broken clouds, 57.2°F, 93% Humidity 
+09/29/2022 06:00:07 	pm2.5: 4.1 µg/m³ 	O3: 13.0 AQI 	Mist, 13°F, 96% Humidity 
+09/29/2022 12:00:05 	pm2.5: 5.1 µg/m³ 	O3: 10.0 AQI 	Broken clouds, 13°F, 97% Humidity 
+09/29/2022 18:00:06 	pm2.5: 5.1 µg/m³ 	O3: 22.0 AQI 	Scattered clouds, 20°F, 61% Humidity 
+09/30/2022 00:00:09 	pm2.5: 4.1 µg/m³ 	O3: 15.0 AQI 	Clear sky, 14°F, 67% Humidity 
+10/01/2022 00:00:11 	pm2.5: 8.1 µg/m³ 	O3: 13.0 AQI 	Clear sky, 13°F, 69% Humidity 
+10/01/2022 06:00:03 	pm2.5: 12.1 µg/m³ 	O3: 11.0 AQI 	Clear sky, 9°F, 94% Humidity 
+10/01/2022 12:00:03 	pm2.5: 21.1 µg/m³ 	O3: 18.0 AQI 	Mist, 12°F, 98% Humidity 
+10/01/2022 18:00:06 	pm2.5: 20.1 µg/m³ 	O3: 26.0 AQI 	Clear sky, 25°F, 47% Humidity 
+10/02/2022 18:00:06 	pm2.5: 30.2 µg/m³ 	O3: 33.0 AQI 	Clear sky, 27°F, 42% Humidity 
+10/03/2022 00:00:08 	pm2.5: 27.2 µg/m³ 	O3: 14.0 AQI 	Clear sky, 16°F, 65% Humidity 
+10/03/2022 06:00:07 	pm2.5: 24.1 µg/m³ 	O3: 6.0  AQI 	Few clouds, 11°F, 92% Humidity 
+10/03/2022 12:00:09 	pm2.5: 28.2 µg/m³ 	O3: 17.0 AQI 	Mist, 11°F, 100% Humidity 
+10/03/2022 18:00:08 	pm2.5: 32.2 µg/m³ 	O3: 29.0 AQI 	Clear sky, 25°F, 48% Humidity 
+10/04/2022 12:00:08 	pm2.5: 11.1 µg/m³ 	O3: 25.0 AQI 	Broken clouds, 53.6°F, 96% Humidity 
+10/04/2022 18:00:07 	pm2.5: 13.1 µg/m³ 	O3: 23.0 AQI 	Clear sky, 68°F, 63% Humidity 
+10/05/2022 00:00:04 	pm2.5: 14.1 µg/m³ 	O3: 20.0 AQI 	Broken clouds, 55.4°F, 92% Humidity 
+10/05/2022 18:00:09 	pm2.5: 14.1 µg/m³ 	O3: 22.0 AQI 	Broken clouds, 59°F, 72% Humidity 
+10/06/2022 00:00:06 	pm2.5: 24.1 µg/m³ 	O3: 15.0 AQI 	Mist, 51.8°F, 95% Humidity 
+10/06/2022 18:00:06 	pm2.5: 42.2 µg/m³ 	O3: 27.0 AQI 	Clear sky, 71.6°F, 53% Humidity 
+10/07/2022 00:00:10 	pm2.5: 40.2 µg/m³ 	O3: 10.0 AQI 	Clear sky, 57.2°F, 69% Humidity 
+10/08/2022 18:00:06 	pm2.5: 47.2 µg/m³ 	O3: 32.0 AQI 	Clear sky, 77°F, 45% Humidity 
+10/09/2022 00:00:06 	pm2.5: 42.2 µg/m³ 	O3: 13.0 AQI 	Clear sky, 57.2°F, 71% Humidity 
+10/09/2022 12:00:05 	pm2.5: 44.2 µg/m³ 	O3: 21.0 AQI 	Mist, 48.2°F, 100% Humidity 
+10/10/2022 18:00:08 	pm2.5: 25.2 µg/m³ 	O3: 17.0 AQI 	Clear sky, 69.8°F, 60% Humidity 
+10/12/2022 18:00:04 	pm2.5: 12.1 µg/m³ 	O3: 22.0 AQI 	Clear sky, 69.8°F, 47% Humidity 
+10/13/2022 00:00:08 	pm2.5: 40.2 µg/m³ 	O3: 7.0  AQI 	Clear sky, 51.8°F, 69% Humidity 
+10/13/2022 06:00:08 	pm2.5: 32.2 µg/m³ 	O3: 14.0 AQI 	Clear sky, 44.6°F, 91% Humidity 
+10/13/2022 12:00:05 	pm2.5: 34.2 µg/m³ 	O3: 23.0 AQI 	Mist, 46.4°F, 100% Humidity 
+10/13/2022 18:00:04 	pm2.5: 39.2 µg/m³ 	O3: 22.0 AQI 	Mist, 75.2°F, 44% Humidity 
+10/14/2022 00:00:05 	pm2.5: 46.2 µg/m³ 	O3: 8.0  AQI 	Clear sky, 55.4°F, 68% Humidity 
+10/14/2022 12:00:03 	pm2.5: 47.2 µg/m³ 	O3: 19.0 AQI 	Mist, 44.6°F, 100% Humidity 
+10/14/2022 18:00:04 	pm2.5: 46.2 µg/m³ 	O3: 21.0 AQI 	Clear sky, 73.4°F, 40% Humidity 
+10/15/2022 12:00:05 	pm2.5: 34.2 µg/m³ 	O3: 19.0 AQI 	Clear sky, 48.2°F, 93% Humidity 

@@ -1,0 +1,750 @@
+September 01, 2022
+Temp: 57.6°F	 Weather: Clear	 Humidity: 83	 Visibility: 6.0
+Temp: 56.6°F	 Weather: Clear	 Humidity: 85	 Visibility: 6.0
+Temp: 55.6°F	 Weather: Clear	 Humidity: 87	 Visibility: 6.0
+Temp: 56.2°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+Temp: 56.8°F	 Weather: Clear	 Humidity: 89	 Visibility: 6.0
+Temp: 57.4°F	 Weather: Clear	 Humidity: 90	 Visibility: 6.0
+Temp: 61.2°F	 Weather: Sunny	 Humidity: 81	 Visibility: 6.0
+Temp: 65.1°F	 Weather: Sunny	 Humidity: 72	 Visibility: 6.0
+Temp: 68.9°F	 Weather: Sunny	 Humidity: 63	 Visibility: 6.0
+Temp: 75.0°F	 Weather: Sunny	 Humidity: 55	 Visibility: 6.0
+Temp: 81.1°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 87.3°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 89.2°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 91.1°F	 Weather: Sunny	 Humidity: 32	 Visibility: 6.0
+Temp: 93.0°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 90.0°F	 Weather: Sunny	 Humidity: 30	 Visibility: 6.0
+Temp: 86.9°F	 Weather: Sunny	 Humidity: 32	 Visibility: 6.0
+Temp: 83.8°F	 Weather: Sunny	 Humidity: 33	 Visibility: 6.0
+Temp: 77.5°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 71.2°F	 Weather: Clear	 Humidity: 47	 Visibility: 6.0
+Temp: 64.9°F	 Weather: Clear	 Humidity: 54	 Visibility: 6.0
+Temp: 62.4°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+Temp: 59.9°F	 Weather: Clear	 Humidity: 61	 Visibility: 6.0
+
+September 02, 2022
+Temp: 56.4°F	 Weather: Clear	 Humidity: 66	 Visibility: 6.0
+Temp: 55.3°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 54.3°F	 Weather: Clear	 Humidity: 68	 Visibility: 6.0
+Temp: 54.8°F	 Weather: Clear	 Humidity: 68	 Visibility: 6.0
+Temp: 55.3°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 55.8°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 60.1°F	 Weather: Sunny	 Humidity: 61	 Visibility: 6.0
+Temp: 64.4°F	 Weather: Sunny	 Humidity: 54	 Visibility: 6.0
+Temp: 68.7°F	 Weather: Sunny	 Humidity: 48	 Visibility: 6.0
+Temp: 74.1°F	 Weather: Sunny	 Humidity: 45	 Visibility: 6.0
+Temp: 79.5°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 84.9°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 85.2°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 85.5°F	 Weather: Sunny	 Humidity: 33	 Visibility: 6.0
+Temp: 85.8°F	 Weather: Sunny	 Humidity: 30	 Visibility: 6.0
+Temp: 81.3°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 76.7°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 72.1°F	 Weather: Sunny	 Humidity: 44	 Visibility: 6.0
+Temp: 67.0°F	 Weather: Sunny	 Humidity: 60	 Visibility: 6.0
+Temp: 61.8°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+Temp: 56.7°F	 Weather: Clear	 Humidity: 91	 Visibility: 6.0
+Temp: 56.2°F	 Weather: Clear	 Humidity: 86	 Visibility: 6.0
+Temp: 55.8°F	 Weather: Partly cloudy	 Humidity: 81	 Visibility: 6.0
+
+September 03, 2022
+Temp: 54.7°F	 Weather: Partly cloudy	 Humidity: 78	 Visibility: 6.0
+Temp: 54.1°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 53.4°F	 Weather: Clear	 Humidity: 83	 Visibility: 6.0
+Temp: 54.3°F	 Weather: Clear	 Humidity: 83	 Visibility: 6.0
+Temp: 55.1°F	 Weather: Partly cloudy	 Humidity: 83	 Visibility: 6.0
+Temp: 55.9°F	 Weather: Partly cloudy	 Humidity: 83	 Visibility: 6.0
+Temp: 58.5°F	 Weather: Partly cloudy	 Humidity: 79	 Visibility: 6.0
+Temp: 61.1°F	 Weather: Partly cloudy	 Humidity: 74	 Visibility: 6.0
+Temp: 63.7°F	 Weather: Partly cloudy	 Humidity: 69	 Visibility: 6.0
+Temp: 67.2°F	 Weather: Partly cloudy	 Humidity: 61	 Visibility: 6.0
+Temp: 70.6°F	 Weather: Sunny	 Humidity: 52	 Visibility: 6.0
+Temp: 74.1°F	 Weather: Sunny	 Humidity: 44	 Visibility: 6.0
+Temp: 77.1°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 80.0°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 82.9°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 81.4°F	 Weather: Sunny	 Humidity: 36	 Visibility: 6.0
+Temp: 79.8°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 78.3°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 72.4°F	 Weather: Sunny	 Humidity: 49	 Visibility: 6.0
+Temp: 66.5°F	 Weather: Clear	 Humidity: 59	 Visibility: 6.0
+Temp: 60.6°F	 Weather: Clear	 Humidity: 70	 Visibility: 6.0
+Temp: 58.4°F	 Weather: Clear	 Humidity: 74	 Visibility: 6.0
+Temp: 56.2°F	 Weather: Clear	 Humidity: 79	 Visibility: 6.0
+
+September 04, 2022
+Temp: 53.3°F	 Weather: Clear	 Humidity: 85	 Visibility: 6.0
+Temp: 52.6°F	 Weather: Clear	 Humidity: 87	 Visibility: 6.0
+Temp: 52.0°F	 Weather: Clear	 Humidity: 89	 Visibility: 6.0
+Temp: 52.4°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+Temp: 52.8°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+Temp: 53.2°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+Temp: 57.4°F	 Weather: Sunny	 Humidity: 78	 Visibility: 6.0
+Temp: 61.6°F	 Weather: Sunny	 Humidity: 68	 Visibility: 6.0
+Temp: 65.8°F	 Weather: Sunny	 Humidity: 59	 Visibility: 6.0
+Temp: 70.0°F	 Weather: Sunny	 Humidity: 52	 Visibility: 6.0
+Temp: 74.1°F	 Weather: Sunny	 Humidity: 45	 Visibility: 6.0
+Temp: 78.3°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 79.9°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 81.6°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 83.3°F	 Weather: Sunny	 Humidity: 33	 Visibility: 6.0
+Temp: 80.6°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 77.9°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 75.2°F	 Weather: Sunny	 Humidity: 44	 Visibility: 6.0
+Temp: 69.6°F	 Weather: Sunny	 Humidity: 60	 Visibility: 6.0
+Temp: 64.0°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+Temp: 58.5°F	 Weather: Clear	 Humidity: 91	 Visibility: 6.0
+Temp: 58.2°F	 Weather: Clear	 Humidity: 93	 Visibility: 4.0
+Temp: 57.9°F	 Weather: Mist	 Humidity: 95	 Visibility: 2.0
+
+September 05, 2022
+Temp: 57.6°F	 Weather: Mist	 Humidity: 97	 Visibility: 0.0
+Temp: 57.7°F	 Weather: Fog	 Humidity: 97	 Visibility: 0.0
+Temp: 57.7°F	 Weather: Fog	 Humidity: 98	 Visibility: 0.0
+Temp: 57.7°F	 Weather: Fog	 Humidity: 96	 Visibility: 2.0
+Temp: 57.6°F	 Weather: Partly cloudy	 Humidity: 95	 Visibility: 4.0
+Temp: 57.6°F	 Weather: Partly cloudy	 Humidity: 93	 Visibility: 6.0
+Temp: 58.3°F	 Weather: Partly cloudy	 Humidity: 90	 Visibility: 6.0
+Temp: 59.1°F	 Weather: Partly cloudy	 Humidity: 87	 Visibility: 6.0
+Temp: 59.9°F	 Weather: Partly cloudy	 Humidity: 85	 Visibility: 6.0
+Temp: 63.6°F	 Weather: Partly cloudy	 Humidity: 74	 Visibility: 6.0
+Temp: 67.2°F	 Weather: Sunny	 Humidity: 63	 Visibility: 6.0
+Temp: 70.9°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 72.3°F	 Weather: Sunny	 Humidity: 48	 Visibility: 6.0
+Temp: 73.6°F	 Weather: Sunny	 Humidity: 42	 Visibility: 6.0
+Temp: 75.0°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 74.7°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 74.3°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 73.9°F	 Weather: Sunny	 Humidity: 42	 Visibility: 6.0
+Temp: 67.0°F	 Weather: Sunny	 Humidity: 51	 Visibility: 6.0
+Temp: 60.1°F	 Weather: Clear	 Humidity: 60	 Visibility: 6.0
+Temp: 53.2°F	 Weather: Clear	 Humidity: 69	 Visibility: 6.0
+Temp: 51.3°F	 Weather: Clear	 Humidity: 72	 Visibility: 6.0
+Temp: 49.3°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+
+September 06, 2022
+Temp: 46.9°F	 Weather: Clear	 Humidity: 79	 Visibility: 6.0
+Temp: 46.6°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+Temp: 46.2°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 47.1°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 47.9°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 48.7°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 53.0°F	 Weather: Sunny	 Humidity: 72	 Visibility: 6.0
+Temp: 57.3°F	 Weather: Sunny	 Humidity: 63	 Visibility: 6.0
+Temp: 61.5°F	 Weather: Sunny	 Humidity: 54	 Visibility: 6.0
+Temp: 66.5°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 71.5°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 76.5°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 80.1°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 83.8°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 87.4°F	 Weather: Sunny	 Humidity: 26	 Visibility: 6.0
+Temp: 84.4°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 81.4°F	 Weather: Sunny	 Humidity: 30	 Visibility: 6.0
+Temp: 78.4°F	 Weather: Sunny	 Humidity: 32	 Visibility: 6.0
+Temp: 71.6°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 64.8°F	 Weather: Clear	 Humidity: 48	 Visibility: 6.0
+Temp: 57.9°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 57.2°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 56.5°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+
+September 07, 2022
+Temp: 55.1°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+Temp: 54.4°F	 Weather: Clear	 Humidity: 58	 Visibility: 6.0
+Temp: 53.8°F	 Weather: Clear	 Humidity: 58	 Visibility: 6.0
+Temp: 54.8°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+Temp: 55.8°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 56.8°F	 Weather: Clear	 Humidity: 55	 Visibility: 6.0
+Temp: 60.6°F	 Weather: Sunny	 Humidity: 51	 Visibility: 6.0
+Temp: 64.3°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 68.0°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 71.1°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 74.1°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 77.2°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 79.7°F	 Weather: Sunny	 Humidity: 33	 Visibility: 6.0
+Temp: 82.2°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 84.7°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 83.0°F	 Weather: Sunny	 Humidity: 30	 Visibility: 6.0
+Temp: 81.3°F	 Weather: Sunny	 Humidity: 32	 Visibility: 6.0
+Temp: 79.5°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 73.3°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 67.0°F	 Weather: Clear	 Humidity: 47	 Visibility: 6.0
+Temp: 60.8°F	 Weather: Clear	 Humidity: 53	 Visibility: 6.0
+Temp: 56.2°F	 Weather: Clear	 Humidity: 60	 Visibility: 6.0
+Temp: 51.7°F	 Weather: Clear	 Humidity: 68	 Visibility: 6.0
+
+September 08, 2022
+Temp: 46.4°F	 Weather: Clear	 Humidity: 78	 Visibility: 6.0
+Temp: 45.7°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 45.0°F	 Weather: Clear	 Humidity: 83	 Visibility: 6.0
+Temp: 45.0°F	 Weather: Clear	 Humidity: 85	 Visibility: 6.0
+Temp: 45.0°F	 Weather: Clear	 Humidity: 87	 Visibility: 6.0
+Temp: 45.0°F	 Weather: Clear	 Humidity: 89	 Visibility: 6.0
+Temp: 48.9°F	 Weather: Sunny	 Humidity: 80	 Visibility: 6.0
+Temp: 52.8°F	 Weather: Sunny	 Humidity: 72	 Visibility: 6.0
+Temp: 56.7°F	 Weather: Sunny	 Humidity: 63	 Visibility: 6.0
+Temp: 60.6°F	 Weather: Sunny	 Humidity: 57	 Visibility: 6.0
+Temp: 64.5°F	 Weather: Sunny	 Humidity: 51	 Visibility: 6.0
+Temp: 68.4°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 69.7°F	 Weather: Sunny	 Humidity: 42	 Visibility: 6.0
+Temp: 71.1°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 72.5°F	 Weather: Sunny	 Humidity: 36	 Visibility: 6.0
+Temp: 72.2°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 71.9°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 71.6°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 64.4°F	 Weather: Sunny	 Humidity: 50	 Visibility: 6.0
+Temp: 57.2°F	 Weather: Clear	 Humidity: 62	 Visibility: 6.0
+Temp: 50.0°F	 Weather: Clear	 Humidity: 73	 Visibility: 6.0
+Temp: 48.7°F	 Weather: Clear	 Humidity: 76	 Visibility: 6.0
+Temp: 47.4°F	 Weather: Clear	 Humidity: 79	 Visibility: 6.0
+
+September 09, 2022
+Temp: 45.7°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 45.4°F	 Weather: Clear	 Humidity: 79	 Visibility: 6.0
+Temp: 45.1°F	 Weather: Clear	 Humidity: 77	 Visibility: 6.0
+Temp: 46.2°F	 Weather: Clear	 Humidity: 74	 Visibility: 6.0
+Temp: 47.2°F	 Weather: Clear	 Humidity: 70	 Visibility: 6.0
+Temp: 48.2°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 52.8°F	 Weather: Sunny	 Humidity: 58	 Visibility: 6.0
+Temp: 57.4°F	 Weather: Sunny	 Humidity: 49	 Visibility: 6.0
+Temp: 62.1°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 66.8°F	 Weather: Sunny	 Humidity: 36	 Visibility: 6.0
+Temp: 71.5°F	 Weather: Sunny	 Humidity: 32	 Visibility: 6.0
+Temp: 76.3°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 79.8°F	 Weather: Sunny	 Humidity: 26	 Visibility: 6.0
+Temp: 83.4°F	 Weather: Sunny	 Humidity: 25	 Visibility: 6.0
+Temp: 86.9°F	 Weather: Sunny	 Humidity: 23	 Visibility: 6.0
+Temp: 83.8°F	 Weather: Sunny	 Humidity: 25	 Visibility: 6.0
+Temp: 80.7°F	 Weather: Sunny	 Humidity: 26	 Visibility: 6.0
+Temp: 77.5°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 71.4°F	 Weather: Sunny	 Humidity: 32	 Visibility: 6.0
+Temp: 65.3°F	 Weather: Clear	 Humidity: 36	 Visibility: 6.0
+Temp: 59.2°F	 Weather: Clear	 Humidity: 40	 Visibility: 6.0
+Temp: 58.9°F	 Weather: Clear	 Humidity: 37	 Visibility: 6.0
+Temp: 58.7°F	 Weather: Clear	 Humidity: 34	 Visibility: 6.0
+
+September 10, 2022
+Temp: 58.0°F	 Weather: Clear	 Humidity: 32	 Visibility: 6.0
+Temp: 57.5°F	 Weather: Clear	 Humidity: 33	 Visibility: 6.0
+Temp: 57.0°F	 Weather: Clear	 Humidity: 34	 Visibility: 6.0
+Temp: 56.8°F	 Weather: Clear	 Humidity: 36	 Visibility: 6.0
+Temp: 56.5°F	 Weather: Clear	 Humidity: 37	 Visibility: 6.0
+Temp: 56.3°F	 Weather: Clear	 Humidity: 39	 Visibility: 6.0
+Temp: 60.7°F	 Weather: Sunny	 Humidity: 36	 Visibility: 6.0
+Temp: 65.2°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 69.6°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 76.5°F	 Weather: Sunny	 Humidity: 26	 Visibility: 6.0
+Temp: 83.3°F	 Weather: Sunny	 Humidity: 21	 Visibility: 6.0
+Temp: 90.1°F	 Weather: Sunny	 Humidity: 16	 Visibility: 6.0
+Temp: 92.9°F	 Weather: Sunny	 Humidity: 15	 Visibility: 6.0
+Temp: 95.7°F	 Weather: Sunny	 Humidity: 13	 Visibility: 6.0
+Temp: 98.4°F	 Weather: Sunny	 Humidity: 12	 Visibility: 6.0
+Temp: 94.9°F	 Weather: Sunny	 Humidity: 15	 Visibility: 6.0
+Temp: 91.5°F	 Weather: Sunny	 Humidity: 18	 Visibility: 6.0
+Temp: 88.0°F	 Weather: Sunny	 Humidity: 21	 Visibility: 6.0
+Temp: 81.6°F	 Weather: Sunny	 Humidity: 23	 Visibility: 6.0
+Temp: 75.1°F	 Weather: Clear	 Humidity: 25	 Visibility: 6.0
+Temp: 68.7°F	 Weather: Clear	 Humidity: 27	 Visibility: 6.0
+Temp: 67.5°F	 Weather: Clear	 Humidity: 27	 Visibility: 6.0
+Temp: 66.2°F	 Weather: Partly cloudy	 Humidity: 26	 Visibility: 6.0
+
+September 11, 2022
+Temp: 63.4°F	 Weather: Partly cloudy	 Humidity: 30	 Visibility: 6.0
+Temp: 61.8°F	 Weather: Partly cloudy	 Humidity: 34	 Visibility: 6.0
+Temp: 60.3°F	 Weather: Partly cloudy	 Humidity: 37	 Visibility: 6.0
+Temp: 60.0°F	 Weather: Partly cloudy	 Humidity: 43	 Visibility: 6.0
+Temp: 59.8°F	 Weather: Partly cloudy	 Humidity: 49	 Visibility: 6.0
+Temp: 59.5°F	 Weather: Partly cloudy	 Humidity: 55	 Visibility: 6.0
+Temp: 62.7°F	 Weather: Partly cloudy	 Humidity: 51	 Visibility: 6.0
+Temp: 65.9°F	 Weather: Partly cloudy	 Humidity: 48	 Visibility: 6.0
+Temp: 69.1°F	 Weather: Partly cloudy	 Humidity: 44	 Visibility: 6.0
+Temp: 71.0°F	 Weather: Partly cloudy	 Humidity: 40	 Visibility: 6.0
+Temp: 72.9°F	 Weather: Partly cloudy	 Humidity: 36	 Visibility: 6.0
+Temp: 74.8°F	 Weather: Partly cloudy	 Humidity: 33	 Visibility: 6.0
+Temp: 77.8°F	 Weather: Partly cloudy	 Humidity: 30	 Visibility: 6.0
+Temp: 80.7°F	 Weather: Partly cloudy	 Humidity: 27	 Visibility: 6.0
+Temp: 83.7°F	 Weather: Partly cloudy	 Humidity: 25	 Visibility: 6.0
+Temp: 80.4°F	 Weather: Partly cloudy	 Humidity: 29	 Visibility: 6.0
+Temp: 77.1°F	 Weather: Partly cloudy	 Humidity: 33	 Visibility: 6.0
+Temp: 73.8°F	 Weather: Partly cloudy	 Humidity: 37	 Visibility: 6.0
+Temp: 68.9°F	 Weather: Partly cloudy	 Humidity: 51	 Visibility: 6.0
+Temp: 64.0°F	 Weather: Partly cloudy	 Humidity: 64	 Visibility: 6.0
+Temp: 59.2°F	 Weather: Partly cloudy	 Humidity: 78	 Visibility: 6.0
+Temp: 59.4°F	 Weather: Partly cloudy	 Humidity: 76	 Visibility: 6.0
+Temp: 59.7°F	 Weather: Partly cloudy	 Humidity: 73	 Visibility: 6.0
+
+September 12, 2022
+Temp: 59.5°F	 Weather: Partly cloudy	 Humidity: 73	 Visibility: 6.0
+Temp: 59.1°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+Temp: 58.6°F	 Weather: Clear	 Humidity: 77	 Visibility: 6.0
+Temp: 58.2°F	 Weather: Clear	 Humidity: 78	 Visibility: 6.0
+Temp: 57.7°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+Temp: 57.2°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 59.7°F	 Weather: Sunny	 Humidity: 76	 Visibility: 6.0
+Temp: 62.1°F	 Weather: Sunny	 Humidity: 72	 Visibility: 6.0
+Temp: 64.6°F	 Weather: Sunny	 Humidity: 67	 Visibility: 6.0
+Temp: 68.2°F	 Weather: Sunny	 Humidity: 60	 Visibility: 6.0
+Temp: 71.9°F	 Weather: Sunny	 Humidity: 52	 Visibility: 6.0
+Temp: 75.6°F	 Weather: Sunny	 Humidity: 45	 Visibility: 6.0
+Temp: 78.4°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 81.2°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 84.0°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 79.8°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 75.6°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 71.4°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 65.4°F	 Weather: Sunny	 Humidity: 59	 Visibility: 6.0
+Temp: 59.3°F	 Weather: Clear	 Humidity: 73	 Visibility: 6.0
+Temp: 53.2°F	 Weather: Clear	 Humidity: 86	 Visibility: 6.0
+Temp: 52.0°F	 Weather: Clear	 Humidity: 89	 Visibility: 4.0
+Temp: 50.8°F	 Weather: Mist	 Humidity: 93	 Visibility: 2.0
+
+September 13, 2022
+Temp: 49.1°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 48.6°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 48.0°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 49.0°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 49.9°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 50.9°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 53.3°F	 Weather: Mist	 Humidity: 92	 Visibility: 2.0
+Temp: 55.7°F	 Weather: Overcast	 Humidity: 87	 Visibility: 4.0
+Temp: 58.1°F	 Weather: Overcast	 Humidity: 81	 Visibility: 6.0
+Temp: 59.6°F	 Weather: Overcast	 Humidity: 77	 Visibility: 6.0
+Temp: 61.1°F	 Weather: Cloudy	 Humidity: 73	 Visibility: 6.0
+Temp: 62.6°F	 Weather: Cloudy	 Humidity: 68	 Visibility: 6.0
+Temp: 64.6°F	 Weather: Cloudy	 Humidity: 63	 Visibility: 6.0
+Temp: 66.6°F	 Weather: Partly cloudy	 Humidity: 58	 Visibility: 6.0
+Temp: 68.5°F	 Weather: Partly cloudy	 Humidity: 53	 Visibility: 6.0
+Temp: 67.3°F	 Weather: Partly cloudy	 Humidity: 53	 Visibility: 6.0
+Temp: 66.0°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 64.8°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 59.9°F	 Weather: Sunny	 Humidity: 64	 Visibility: 6.0
+Temp: 55.0°F	 Weather: Clear	 Humidity: 74	 Visibility: 6.0
+Temp: 50.2°F	 Weather: Clear	 Humidity: 85	 Visibility: 6.0
+Temp: 50.7°F	 Weather: Clear	 Humidity: 85	 Visibility: 6.0
+Temp: 51.3°F	 Weather: Partly cloudy	 Humidity: 85	 Visibility: 6.0
+
+September 14, 2022
+Temp: 50.2°F	 Weather: Partly cloudy	 Humidity: 88	 Visibility: 4.0
+Temp: 48.7°F	 Weather: Mist	 Humidity: 92	 Visibility: 2.0
+Temp: 47.1°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 47.8°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 48.4°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 49.1°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 52.2°F	 Weather: Mist	 Humidity: 90	 Visibility: 2.0
+Temp: 55.2°F	 Weather: Partly cloudy	 Humidity: 83	 Visibility: 4.0
+Temp: 58.3°F	 Weather: Partly cloudy	 Humidity: 76	 Visibility: 6.0
+Temp: 61.9°F	 Weather: Partly cloudy	 Humidity: 68	 Visibility: 6.0
+Temp: 65.6°F	 Weather: Sunny	 Humidity: 60	 Visibility: 6.0
+Temp: 69.3°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 70.8°F	 Weather: Sunny	 Humidity: 50	 Visibility: 6.0
+Temp: 72.3°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 73.8°F	 Weather: Sunny	 Humidity: 44	 Visibility: 6.0
+Temp: 71.8°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 69.9°F	 Weather: Partly cloudy	 Humidity: 49	 Visibility: 6.0
+Temp: 68.0°F	 Weather: Partly cloudy	 Humidity: 52	 Visibility: 6.0
+Temp: 63.2°F	 Weather: Partly cloudy	 Humidity: 62	 Visibility: 6.0
+Temp: 58.4°F	 Weather: Partly cloudy	 Humidity: 71	 Visibility: 6.0
+Temp: 53.6°F	 Weather: Partly cloudy	 Humidity: 81	 Visibility: 6.0
+Temp: 52.1°F	 Weather: Partly cloudy	 Humidity: 85	 Visibility: 6.0
+Temp: 50.6°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+
+September 15, 2022
+Temp: 48.4°F	 Weather: Clear	 Humidity: 93	 Visibility: 4.0
+Temp: 47.8°F	 Weather: Mist	 Humidity: 94	 Visibility: 2.0
+Temp: 47.1°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 47.9°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 48.7°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 49.5°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 52.5°F	 Weather: Mist	 Humidity: 88	 Visibility: 2.0
+Temp: 55.5°F	 Weather: Sunny	 Humidity: 81	 Visibility: 4.0
+Temp: 58.5°F	 Weather: Sunny	 Humidity: 74	 Visibility: 6.0
+Temp: 62.2°F	 Weather: Sunny	 Humidity: 64	 Visibility: 6.0
+Temp: 66.0°F	 Weather: Sunny	 Humidity: 55	 Visibility: 6.0
+Temp: 69.8°F	 Weather: Sunny	 Humidity: 45	 Visibility: 6.0
+Temp: 71.1°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 72.3°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 73.6°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 71.6°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 69.6°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 67.6°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 61.7°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 55.8°F	 Weather: Clear	 Humidity: 64	 Visibility: 6.0
+Temp: 49.8°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+Temp: 50.5°F	 Weather: Clear	 Humidity: 78	 Visibility: 6.0
+Temp: 51.1°F	 Weather: Partly cloudy	 Humidity: 80	 Visibility: 6.0
+
+September 16, 2022
+Temp: 50.5°F	 Weather: Partly cloudy	 Humidity: 85	 Visibility: 6.0
+Temp: 49.2°F	 Weather: Partly cloudy	 Humidity: 88	 Visibility: 6.0
+Temp: 47.8°F	 Weather: Partly cloudy	 Humidity: 90	 Visibility: 6.0
+Temp: 48.0°F	 Weather: Partly cloudy	 Humidity: 92	 Visibility: 4.0
+Temp: 48.2°F	 Weather: Mist	 Humidity: 94	 Visibility: 2.0
+Temp: 48.4°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 51.1°F	 Weather: Mist	 Humidity: 87	 Visibility: 2.0
+Temp: 53.8°F	 Weather: Partly cloudy	 Humidity: 78	 Visibility: 4.0
+Temp: 56.5°F	 Weather: Partly cloudy	 Humidity: 70	 Visibility: 6.0
+Temp: 58.7°F	 Weather: Partly cloudy	 Humidity: 62	 Visibility: 6.0
+Temp: 60.9°F	 Weather: Overcast	 Humidity: 55	 Visibility: 6.0
+Temp: 63.1°F	 Weather: Overcast	 Humidity: 48	 Visibility: 6.0
+Temp: 63.3°F	 Weather: Overcast	 Humidity: 51	 Visibility: 6.0
+Temp: 63.4°F	 Weather: Partly cloudy	 Humidity: 53	 Visibility: 6.0
+Temp: 63.5°F	 Weather: Partly cloudy	 Humidity: 55	 Visibility: 6.0
+Temp: 61.8°F	 Weather: Partly cloudy	 Humidity: 55	 Visibility: 6.0
+Temp: 60.1°F	 Weather: Overcast	 Humidity: 56	 Visibility: 6.0
+Temp: 58.5°F	 Weather: Overcast	 Humidity: 56	 Visibility: 6.0
+Temp: 55.7°F	 Weather: Overcast	 Humidity: 66	 Visibility: 6.0
+Temp: 52.9°F	 Weather: Partly cloudy	 Humidity: 75	 Visibility: 6.0
+Temp: 50.2°F	 Weather: Partly cloudy	 Humidity: 84	 Visibility: 6.0
+Temp: 48.7°F	 Weather: Partly cloudy	 Humidity: 87	 Visibility: 6.0
+Temp: 47.3°F	 Weather: Partly cloudy	 Humidity: 90	 Visibility: 6.0
+
+September 17, 2022
+Temp: 45.3°F	 Weather: Partly cloudy	 Humidity: 93	 Visibility: 6.0
+Temp: 44.7°F	 Weather: Overcast	 Humidity: 93	 Visibility: 6.0
+Temp: 44.1°F	 Weather: Overcast	 Humidity: 93	 Visibility: 6.0
+Temp: 44.9°F	 Weather: Overcast	 Humidity: 92	 Visibility: 6.0
+Temp: 45.7°F	 Weather: Overcast	 Humidity: 91	 Visibility: 6.0
+Temp: 46.6°F	 Weather: Overcast	 Humidity: 91	 Visibility: 6.0
+Temp: 48.5°F	 Weather: Overcast	 Humidity: 85	 Visibility: 6.0
+Temp: 50.4°F	 Weather: Overcast	 Humidity: 79	 Visibility: 6.0
+Temp: 52.3°F	 Weather: Overcast	 Humidity: 73	 Visibility: 6.0
+Temp: 54.7°F	 Weather: Overcast	 Humidity: 66	 Visibility: 6.0
+Temp: 57.1°F	 Weather: Overcast	 Humidity: 58	 Visibility: 6.0
+Temp: 59.5°F	 Weather: Overcast	 Humidity: 51	 Visibility: 6.0
+Temp: 60.3°F	 Weather: Overcast	 Humidity: 49	 Visibility: 6.0
+Temp: 61.0°F	 Weather: Overcast	 Humidity: 47	 Visibility: 6.0
+Temp: 61.7°F	 Weather: Overcast	 Humidity: 45	 Visibility: 6.0
+Temp: 60.0°F	 Weather: Overcast	 Humidity: 47	 Visibility: 6.0
+Temp: 58.2°F	 Weather: Overcast	 Humidity: 49	 Visibility: 6.0
+Temp: 56.5°F	 Weather: Overcast	 Humidity: 51	 Visibility: 6.0
+Temp: 53.1°F	 Weather: Overcast	 Humidity: 61	 Visibility: 6.0
+Temp: 49.8°F	 Weather: Overcast	 Humidity: 70	 Visibility: 6.0
+Temp: 46.4°F	 Weather: Overcast	 Humidity: 79	 Visibility: 6.0
+Temp: 45.7°F	 Weather: Overcast	 Humidity: 80	 Visibility: 6.0
+Temp: 45.1°F	 Weather: Overcast	 Humidity: 82	 Visibility: 6.0
+
+September 18, 2022
+Temp: 44.4°F	 Weather: Overcast	 Humidity: 84	 Visibility: 6.0
+Temp: 44.4°F	 Weather: Overcast	 Humidity: 85	 Visibility: 6.0
+Temp: 44.4°F	 Weather: Overcast	 Humidity: 85	 Visibility: 6.0
+Temp: 45.3°F	 Weather: Overcast	 Humidity: 86	 Visibility: 6.0
+Temp: 46.1°F	 Weather: Partly cloudy	 Humidity: 87	 Visibility: 6.0
+Temp: 46.9°F	 Weather: Partly cloudy	 Humidity: 87	 Visibility: 6.0
+Temp: 49.2°F	 Weather: Partly cloudy	 Humidity: 82	 Visibility: 6.0
+Temp: 51.4°F	 Weather: Partly cloudy	 Humidity: 77	 Visibility: 6.0
+Temp: 53.6°F	 Weather: Partly cloudy	 Humidity: 72	 Visibility: 6.0
+Temp: 57.5°F	 Weather: Partly cloudy	 Humidity: 63	 Visibility: 6.0
+Temp: 61.4°F	 Weather: Partly cloudy	 Humidity: 53	 Visibility: 6.0
+Temp: 65.3°F	 Weather: Partly cloudy	 Humidity: 44	 Visibility: 6.0
+Temp: 65.7°F	 Weather: Partly cloudy	 Humidity: 44	 Visibility: 6.0
+Temp: 66.0°F	 Weather: Partly cloudy	 Humidity: 43	 Visibility: 6.0
+Temp: 66.4°F	 Weather: Partly cloudy	 Humidity: 43	 Visibility: 6.0
+Temp: 64.8°F	 Weather: Partly cloudy	 Humidity: 45	 Visibility: 6.0
+Temp: 63.1°F	 Weather: Partly cloudy	 Humidity: 47	 Visibility: 6.0
+Temp: 61.5°F	 Weather: Partly cloudy	 Humidity: 49	 Visibility: 6.0
+Temp: 57.4°F	 Weather: Partly cloudy	 Humidity: 56	 Visibility: 6.0
+Temp: 53.2°F	 Weather: Clear	 Humidity: 63	 Visibility: 6.0
+Temp: 49.1°F	 Weather: Clear	 Humidity: 70	 Visibility: 6.0
+Temp: 48.0°F	 Weather: Clear	 Humidity: 72	 Visibility: 6.0
+Temp: 46.9°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+
+September 19, 2022
+Temp: 45.4°F	 Weather: Clear	 Humidity: 78	 Visibility: 6.0
+Temp: 44.9°F	 Weather: Clear	 Humidity: 79	 Visibility: 6.0
+Temp: 44.4°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+Temp: 45.1°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 45.7°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 46.4°F	 Weather: Clear	 Humidity: 82	 Visibility: 6.0
+Temp: 50.3°F	 Weather: Sunny	 Humidity: 73	 Visibility: 6.0
+Temp: 54.2°F	 Weather: Sunny	 Humidity: 65	 Visibility: 6.0
+Temp: 58.1°F	 Weather: Sunny	 Humidity: 57	 Visibility: 6.0
+Temp: 61.9°F	 Weather: Sunny	 Humidity: 51	 Visibility: 6.0
+Temp: 65.7°F	 Weather: Sunny	 Humidity: 45	 Visibility: 6.0
+Temp: 69.4°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 70.6°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 71.7°F	 Weather: Sunny	 Humidity: 36	 Visibility: 6.0
+Temp: 72.9°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 70.8°F	 Weather: Sunny	 Humidity: 36	 Visibility: 6.0
+Temp: 68.8°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 66.7°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 61.6°F	 Weather: Sunny	 Humidity: 48	 Visibility: 6.0
+Temp: 56.5°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 51.4°F	 Weather: Clear	 Humidity: 63	 Visibility: 6.0
+Temp: 51.3°F	 Weather: Clear	 Humidity: 60	 Visibility: 6.0
+Temp: 51.2°F	 Weather: Clear	 Humidity: 58	 Visibility: 6.0
+
+September 20, 2022
+Temp: 50.2°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 49.4°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+Temp: 48.6°F	 Weather: Clear	 Humidity: 58	 Visibility: 6.0
+Temp: 49.0°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+Temp: 49.4°F	 Weather: Clear	 Humidity: 57	 Visibility: 6.0
+Temp: 49.8°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 53.7°F	 Weather: Sunny	 Humidity: 51	 Visibility: 6.0
+Temp: 57.5°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 61.3°F	 Weather: Sunny	 Humidity: 42	 Visibility: 6.0
+Temp: 66.6°F	 Weather: Sunny	 Humidity: 38	 Visibility: 6.0
+Temp: 71.9°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 77.2°F	 Weather: Sunny	 Humidity: 30	 Visibility: 6.0
+Temp: 79.6°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 82.0°F	 Weather: Sunny	 Humidity: 27	 Visibility: 6.0
+Temp: 84.4°F	 Weather: Sunny	 Humidity: 26	 Visibility: 6.0
+Temp: 79.9°F	 Weather: Sunny	 Humidity: 30	 Visibility: 6.0
+Temp: 75.4°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 70.9°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 66.8°F	 Weather: Sunny	 Humidity: 42	 Visibility: 6.0
+Temp: 62.7°F	 Weather: Clear	 Humidity: 45	 Visibility: 6.0
+Temp: 58.6°F	 Weather: Clear	 Humidity: 47	 Visibility: 6.0
+Temp: 56.8°F	 Weather: Clear	 Humidity: 50	 Visibility: 6.0
+Temp: 54.9°F	 Weather: Clear	 Humidity: 52	 Visibility: 6.0
+
+September 21, 2022
+Temp: 52.2°F	 Weather: Clear	 Humidity: 55	 Visibility: 6.0
+Temp: 51.3°F	 Weather: Clear	 Humidity: 55	 Visibility: 6.0
+Temp: 50.4°F	 Weather: Clear	 Humidity: 55	 Visibility: 6.0
+Temp: 50.6°F	 Weather: Clear	 Humidity: 55	 Visibility: 6.0
+Temp: 50.8°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 51.1°F	 Weather: Clear	 Humidity: 56	 Visibility: 6.0
+Temp: 54.6°F	 Weather: Sunny	 Humidity: 52	 Visibility: 6.0
+Temp: 58.2°F	 Weather: Sunny	 Humidity: 48	 Visibility: 6.0
+Temp: 61.7°F	 Weather: Sunny	 Humidity: 44	 Visibility: 6.0
+Temp: 64.8°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 67.9°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 71.1°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 72.3°F	 Weather: Sunny	 Humidity: 29	 Visibility: 6.0
+Temp: 73.6°F	 Weather: Sunny	 Humidity: 28	 Visibility: 6.0
+Temp: 74.8°F	 Weather: Sunny	 Humidity: 26	 Visibility: 6.0
+Temp: 72.5°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 70.2°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 67.8°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 63.4°F	 Weather: Sunny	 Humidity: 48	 Visibility: 6.0
+Temp: 59.1°F	 Weather: Partly cloudy	 Humidity: 56	 Visibility: 6.0
+Temp: 54.7°F	 Weather: Partly cloudy	 Humidity: 65	 Visibility: 6.0
+Temp: 53.1°F	 Weather: Partly cloudy	 Humidity: 65	 Visibility: 6.0
+Temp: 51.4°F	 Weather: Clear	 Humidity: 65	 Visibility: 6.0
+
+September 22, 2022
+Temp: 49.0°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 48.1°F	 Weather: Clear	 Humidity: 68	 Visibility: 6.0
+Temp: 47.3°F	 Weather: Clear	 Humidity: 69	 Visibility: 6.0
+Temp: 48.0°F	 Weather: Clear	 Humidity: 71	 Visibility: 6.0
+Temp: 48.6°F	 Weather: Clear	 Humidity: 73	 Visibility: 6.0
+Temp: 49.3°F	 Weather: Clear	 Humidity: 75	 Visibility: 6.0
+Temp: 52.7°F	 Weather: Sunny	 Humidity: 69	 Visibility: 6.0
+Temp: 56.1°F	 Weather: Sunny	 Humidity: 63	 Visibility: 6.0
+Temp: 59.5°F	 Weather: Sunny	 Humidity: 58	 Visibility: 6.0
+Temp: 62.5°F	 Weather: Sunny	 Humidity: 54	 Visibility: 6.0
+Temp: 65.5°F	 Weather: Sunny	 Humidity: 50	 Visibility: 6.0
+Temp: 68.5°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 69.0°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 69.4°F	 Weather: Partly cloudy	 Humidity: 45	 Visibility: 6.0
+Temp: 69.8°F	 Weather: Partly cloudy	 Humidity: 45	 Visibility: 6.0
+Temp: 67.1°F	 Weather: Partly cloudy	 Humidity: 54	 Visibility: 6.0
+Temp: 64.4°F	 Weather: Patchy rain possible	 Humidity: 64	 Visibility: 6.0
+Temp: 61.7°F	 Weather: Patchy rain possible	 Humidity: 73	 Visibility: 6.0
+Temp: 59.2°F	 Weather: Patchy rain possible	 Humidity: 80	 Visibility: 6.0
+Temp: 56.7°F	 Weather: Patchy rain possible	 Humidity: 86	 Visibility: 6.0
+Temp: 54.1°F	 Weather: Patchy rain possible	 Humidity: 93	 Visibility: 6.0
+Temp: 54.4°F	 Weather: Patchy rain possible	 Humidity: 92	 Visibility: 6.0
+Temp: 54.6°F	 Weather: Overcast	 Humidity: 91	 Visibility: 6.0
+
+September 23, 2022
+Temp: 54.7°F	 Weather: Overcast	 Humidity: 90	 Visibility: 6.0
+Temp: 54.6°F	 Weather: Overcast	 Humidity: 90	 Visibility: 6.0
+Temp: 54.5°F	 Weather: Overcast	 Humidity: 90	 Visibility: 6.0
+Temp: 54.7°F	 Weather: Overcast	 Humidity: 90	 Visibility: 6.0
+Temp: 54.9°F	 Weather: Overcast	 Humidity: 89	 Visibility: 6.0
+Temp: 55.0°F	 Weather: Overcast	 Humidity: 89	 Visibility: 6.0
+Temp: 56.0°F	 Weather: Overcast	 Humidity: 86	 Visibility: 6.0
+Temp: 57.0°F	 Weather: Overcast	 Humidity: 82	 Visibility: 6.0
+Temp: 57.9°F	 Weather: Overcast	 Humidity: 79	 Visibility: 6.0
+Temp: 58.5°F	 Weather: Overcast	 Humidity: 76	 Visibility: 6.0
+Temp: 59.1°F	 Weather: Overcast	 Humidity: 73	 Visibility: 6.0
+Temp: 59.7°F	 Weather: Overcast	 Humidity: 70	 Visibility: 6.0
+Temp: 59.8°F	 Weather: Overcast	 Humidity: 71	 Visibility: 6.0
+Temp: 60.0°F	 Weather: Overcast	 Humidity: 72	 Visibility: 6.0
+Temp: 60.1°F	 Weather: Overcast	 Humidity: 72	 Visibility: 6.0
+Temp: 57.5°F	 Weather: Overcast	 Humidity: 79	 Visibility: 4.0
+Temp: 54.9°F	 Weather: Light drizzle	 Humidity: 86	 Visibility: 2.0
+Temp: 52.3°F	 Weather: Light drizzle	 Humidity: 93	 Visibility: 1.0
+Temp: 52.0°F	 Weather: Light drizzle	 Humidity: 93	 Visibility: 1.0
+Temp: 51.7°F	 Weather: Mist	 Humidity: 94	 Visibility: 1.0
+Temp: 51.4°F	 Weather: Mist	 Humidity: 94	 Visibility: 1.0
+Temp: 50.2°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 49.0°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+
+September 24, 2022
+Temp: 47.5°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 47.2°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 46.9°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 47.4°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 47.9°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 48.4°F	 Weather: Mist	 Humidity: 97	 Visibility: 1.0
+Temp: 50.7°F	 Weather: Mist	 Humidity: 92	 Visibility: 2.0
+Temp: 53.1°F	 Weather: Partly cloudy	 Humidity: 87	 Visibility: 4.0
+Temp: 55.4°F	 Weather: Partly cloudy	 Humidity: 82	 Visibility: 6.0
+Temp: 59.4°F	 Weather: Partly cloudy	 Humidity: 71	 Visibility: 6.0
+Temp: 63.3°F	 Weather: Sunny	 Humidity: 60	 Visibility: 6.0
+Temp: 67.3°F	 Weather: Sunny	 Humidity: 50	 Visibility: 6.0
+Temp: 69.7°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 72.2°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 74.7°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 71.6°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 68.5°F	 Weather: Sunny	 Humidity: 44	 Visibility: 6.0
+Temp: 65.5°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 60.7°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 56.0°F	 Weather: Clear	 Humidity: 61	 Visibility: 6.0
+Temp: 51.3°F	 Weather: Clear	 Humidity: 69	 Visibility: 6.0
+Temp: 50.2°F	 Weather: Clear	 Humidity: 72	 Visibility: 6.0
+Temp: 49.2°F	 Weather: Clear	 Humidity: 74	 Visibility: 6.0
+
+September 25, 2022
+Temp: 47.8°F	 Weather: Clear	 Humidity: 78	 Visibility: 6.0
+Temp: 47.5°F	 Weather: Clear	 Humidity: 79	 Visibility: 6.0
+Temp: 47.1°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 47.8°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+Temp: 48.4°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+Temp: 49.1°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+Temp: 52.5°F	 Weather: Sunny	 Humidity: 73	 Visibility: 6.0
+Temp: 55.9°F	 Weather: Sunny	 Humidity: 67	 Visibility: 6.0
+Temp: 59.4°F	 Weather: Sunny	 Humidity: 61	 Visibility: 6.0
+Temp: 63.1°F	 Weather: Sunny	 Humidity: 55	 Visibility: 6.0
+Temp: 66.9°F	 Weather: Sunny	 Humidity: 49	 Visibility: 6.0
+Temp: 70.7°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 72.0°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 73.3°F	 Weather: Partly cloudy	 Humidity: 39	 Visibility: 6.0
+Temp: 74.7°F	 Weather: Partly cloudy	 Humidity: 37	 Visibility: 6.0
+Temp: 72.0°F	 Weather: Partly cloudy	 Humidity: 41	 Visibility: 6.0
+Temp: 69.4°F	 Weather: Partly cloudy	 Humidity: 45	 Visibility: 6.0
+Temp: 66.7°F	 Weather: Partly cloudy	 Humidity: 49	 Visibility: 6.0
+Temp: 63.7°F	 Weather: Partly cloudy	 Humidity: 53	 Visibility: 6.0
+Temp: 60.7°F	 Weather: Partly cloudy	 Humidity: 57	 Visibility: 6.0
+Temp: 57.7°F	 Weather: Partly cloudy	 Humidity: 61	 Visibility: 6.0
+Temp: 57.3°F	 Weather: Partly cloudy	 Humidity: 61	 Visibility: 6.0
+Temp: 56.8°F	 Weather: Partly cloudy	 Humidity: 62	 Visibility: 6.0
+
+September 26, 2022
+Temp: 55.2°F	 Weather: Partly cloudy	 Humidity: 65	 Visibility: 6.0
+Temp: 54.1°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 53.1°F	 Weather: Clear	 Humidity: 70	 Visibility: 6.0
+Temp: 53.4°F	 Weather: Clear	 Humidity: 70	 Visibility: 6.0
+Temp: 53.8°F	 Weather: Clear	 Humidity: 70	 Visibility: 6.0
+Temp: 54.1°F	 Weather: Clear	 Humidity: 71	 Visibility: 6.0
+Temp: 57.9°F	 Weather: Clear	 Humidity: 65	 Visibility: 6.0
+Temp: 61.6°F	 Weather: Sunny	 Humidity: 59	 Visibility: 6.0
+Temp: 65.3°F	 Weather: Sunny	 Humidity: 53	 Visibility: 6.0
+Temp: 71.4°F	 Weather: Sunny	 Humidity: 47	 Visibility: 6.0
+Temp: 77.4°F	 Weather: Sunny	 Humidity: 41	 Visibility: 6.0
+Temp: 83.5°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 85.2°F	 Weather: Sunny	 Humidity: 33	 Visibility: 6.0
+Temp: 87.0°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 88.7°F	 Weather: Sunny	 Humidity: 29	 Visibility: 6.0
+Temp: 84.5°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 80.3°F	 Weather: Sunny	 Humidity: 39	 Visibility: 6.0
+Temp: 76.1°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 71.0°F	 Weather: Clear	 Humidity: 48	 Visibility: 6.0
+Temp: 65.9°F	 Weather: Clear	 Humidity: 53	 Visibility: 6.0
+Temp: 60.8°F	 Weather: Clear	 Humidity: 58	 Visibility: 6.0
+Temp: 59.0°F	 Weather: Clear	 Humidity: 61	 Visibility: 6.0
+Temp: 57.2°F	 Weather: Clear	 Humidity: 64	 Visibility: 6.0
+
+September 27, 2022
+Temp: 54.9°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 54.3°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 53.8°F	 Weather: Clear	 Humidity: 68	 Visibility: 6.0
+Temp: 54.3°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 54.7°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 55.2°F	 Weather: Clear	 Humidity: 67	 Visibility: 6.0
+Temp: 58.6°F	 Weather: Clear	 Humidity: 61	 Visibility: 6.0
+Temp: 61.9°F	 Weather: Sunny	 Humidity: 55	 Visibility: 6.0
+Temp: 65.3°F	 Weather: Sunny	 Humidity: 49	 Visibility: 6.0
+Temp: 71.1°F	 Weather: Sunny	 Humidity: 45	 Visibility: 6.0
+Temp: 76.9°F	 Weather: Sunny	 Humidity: 40	 Visibility: 6.0
+Temp: 82.8°F	 Weather: Sunny	 Humidity: 35	 Visibility: 6.0
+Temp: 84.2°F	 Weather: Sunny	 Humidity: 34	 Visibility: 6.0
+Temp: 85.6°F	 Weather: Sunny	 Humidity: 33	 Visibility: 6.0
+Temp: 87.1°F	 Weather: Sunny	 Humidity: 31	 Visibility: 6.0
+Temp: 81.2°F	 Weather: Sunny	 Humidity: 37	 Visibility: 6.0
+Temp: 75.3°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 69.4°F	 Weather: Sunny	 Humidity: 49	 Visibility: 6.0
+Temp: 64.2°F	 Weather: Clear	 Humidity: 60	 Visibility: 6.0
+Temp: 58.9°F	 Weather: Partly cloudy	 Humidity: 70	 Visibility: 6.0
+Temp: 53.6°F	 Weather: Partly cloudy	 Humidity: 81	 Visibility: 6.0
+Temp: 52.4°F	 Weather: Partly cloudy	 Humidity: 84	 Visibility: 6.0
+Temp: 51.2°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+
+September 28, 2022
+Temp: 49.6°F	 Weather: Clear	 Humidity: 92	 Visibility: 6.0
+Temp: 49.3°F	 Weather: Clear	 Humidity: 93	 Visibility: 6.0
+Temp: 48.9°F	 Weather: Clear	 Humidity: 94	 Visibility: 6.0
+Temp: 50.3°F	 Weather: Clear	 Humidity: 93	 Visibility: 6.0
+Temp: 51.7°F	 Weather: Partly cloudy	 Humidity: 92	 Visibility: 6.0
+Temp: 53.1°F	 Weather: Partly cloudy	 Humidity: 91	 Visibility: 6.0
+Temp: 53.7°F	 Weather: Partly cloudy	 Humidity: 92	 Visibility: 4.0
+Temp: 54.3°F	 Weather: Light drizzle	 Humidity: 94	 Visibility: 2.0
+Temp: 54.9°F	 Weather: Light drizzle	 Humidity: 95	 Visibility: 1.0
+Temp: 56.7°F	 Weather: Light drizzle	 Humidity: 92	 Visibility: 2.0
+Temp: 58.5°F	 Weather: Overcast	 Humidity: 88	 Visibility: 4.0
+Temp: 60.3°F	 Weather: Overcast	 Humidity: 85	 Visibility: 6.0
+Temp: 63.4°F	 Weather: Overcast	 Humidity: 73	 Visibility: 6.0
+Temp: 66.5°F	 Weather: Partly cloudy	 Humidity: 61	 Visibility: 6.0
+Temp: 69.6°F	 Weather: Partly cloudy	 Humidity: 49	 Visibility: 6.0
+Temp: 67.6°F	 Weather: Partly cloudy	 Humidity: 51	 Visibility: 6.0
+Temp: 65.7°F	 Weather: Overcast	 Humidity: 54	 Visibility: 6.0
+Temp: 63.7°F	 Weather: Overcast	 Humidity: 57	 Visibility: 6.0
+Temp: 61.5°F	 Weather: Overcast	 Humidity: 62	 Visibility: 6.0
+Temp: 59.2°F	 Weather: Cloudy	 Humidity: 67	 Visibility: 6.0
+Temp: 57.0°F	 Weather: Cloudy	 Humidity: 73	 Visibility: 6.0
+Temp: 55.3°F	 Weather: Cloudy	 Humidity: 80	 Visibility: 6.0
+Temp: 53.5°F	 Weather: Patchy rain possible	 Humidity: 87	 Visibility: 6.0
+
+September 29, 2022
+Temp: 52.0°F	 Weather: Patchy rain possible	 Humidity: 95	 Visibility: 6.0
+Temp: 52.2°F	 Weather: Patchy light rain	 Humidity: 96	 Visibility: 5.0
+Temp: 52.3°F	 Weather: Patchy light rain	 Humidity: 98	 Visibility: 5.0
+Temp: 52.7°F	 Weather: Patchy light rain	 Humidity: 97	 Visibility: 4.0
+Temp: 53.1°F	 Weather: Light drizzle	 Humidity: 97	 Visibility: 2.0
+Temp: 53.4°F	 Weather: Light drizzle	 Humidity: 97	 Visibility: 1.0
+Temp: 54.1°F	 Weather: Light drizzle	 Humidity: 95	 Visibility: 1.0
+Temp: 54.9°F	 Weather: Light drizzle	 Humidity: 94	 Visibility: 1.0
+Temp: 55.6°F	 Weather: Light drizzle	 Humidity: 92	 Visibility: 1.0
+Temp: 57.0°F	 Weather: Light drizzle	 Humidity: 89	 Visibility: 2.0
+Temp: 58.3°F	 Weather: Patchy rain possible	 Humidity: 86	 Visibility: 4.0
+Temp: 59.7°F	 Weather: Patchy rain possible	 Humidity: 82	 Visibility: 6.0
+Temp: 61.9°F	 Weather: Patchy rain possible	 Humidity: 74	 Visibility: 6.0
+Temp: 64.2°F	 Weather: Patchy rain possible	 Humidity: 66	 Visibility: 6.0
+Temp: 66.4°F	 Weather: Patchy rain possible	 Humidity: 57	 Visibility: 6.0
+Temp: 64.2°F	 Weather: Patchy rain possible	 Humidity: 60	 Visibility: 6.0
+Temp: 62.1°F	 Weather: Partly cloudy	 Humidity: 63	 Visibility: 6.0
+Temp: 59.9°F	 Weather: Partly cloudy	 Humidity: 65	 Visibility: 6.0
+Temp: 57.1°F	 Weather: Partly cloudy	 Humidity: 70	 Visibility: 6.0
+Temp: 54.3°F	 Weather: Cloudy	 Humidity: 75	 Visibility: 6.0
+Temp: 51.4°F	 Weather: Cloudy	 Humidity: 80	 Visibility: 6.0
+Temp: 50.2°F	 Weather: Cloudy	 Humidity: 84	 Visibility: 6.0
+Temp: 48.9°F	 Weather: Clear	 Humidity: 88	 Visibility: 6.0
+
+September 30, 2022
+Temp: 47.1°F	 Weather: Clear	 Humidity: 93	 Visibility: 4.0
+Temp: 46.5°F	 Weather: Mist	 Humidity: 94	 Visibility: 2.0
+Temp: 45.9°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 46.6°F	 Weather: Mist	 Humidity: 95	 Visibility: 1.0
+Temp: 47.4°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 48.2°F	 Weather: Mist	 Humidity: 96	 Visibility: 1.0
+Temp: 50.8°F	 Weather: Mist	 Humidity: 90	 Visibility: 2.0
+Temp: 53.4°F	 Weather: Sunny	 Humidity: 84	 Visibility: 4.0
+Temp: 55.9°F	 Weather: Sunny	 Humidity: 78	 Visibility: 6.0
+Temp: 60.1°F	 Weather: Sunny	 Humidity: 69	 Visibility: 6.0
+Temp: 64.2°F	 Weather: Sunny	 Humidity: 61	 Visibility: 6.0
+Temp: 68.4°F	 Weather: Sunny	 Humidity: 52	 Visibility: 6.0
+Temp: 69.9°F	 Weather: Sunny	 Humidity: 49	 Visibility: 6.0
+Temp: 71.4°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 72.9°F	 Weather: Sunny	 Humidity: 43	 Visibility: 6.0
+Temp: 71.0°F	 Weather: Sunny	 Humidity: 46	 Visibility: 6.0
+Temp: 69.1°F	 Weather: Sunny	 Humidity: 50	 Visibility: 6.0
+Temp: 67.3°F	 Weather: Sunny	 Humidity: 54	 Visibility: 6.0
+Temp: 62.8°F	 Weather: Clear	 Humidity: 63	 Visibility: 6.0
+Temp: 58.4°F	 Weather: Clear	 Humidity: 72	 Visibility: 6.0
+Temp: 54.0°F	 Weather: Clear	 Humidity: 82	 Visibility: 6.0
+Temp: 54.1°F	 Weather: Clear	 Humidity: 81	 Visibility: 6.0
+Temp: 54.3°F	 Weather: Clear	 Humidity: 80	 Visibility: 6.0
+
